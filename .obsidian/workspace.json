@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf3b1ef56f4aca77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objects vs Maps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Object Prototype.md",
+                "file": "Objects vs Maps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Object Prototype.md",
+                "file": "Objects vs Maps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Object Prototype.md"
+                "file": "Objects vs Maps.md"
               }
             }
           },
@@ -133,12 +146,20 @@
             "id": "875cd6f2a7a8fdaf",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5e2911b31dce1cd",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -155,8 +176,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c21c210a6db8a785",
+  "active": "bf3b1ef56f4aca77",
   "lastOpenFiles": [
-    "Object Prototype.md"
+    "Object Prototype.md",
+    "Objects vs Maps.md"
   ]
 }

@@ -3,5 +3,6 @@
   "theme": "obsidian",
   "baseFontSize": 17,
   "showViewHeader": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "cssTheme": "Catppuccin"
 }

@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "92981886684f9ca9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gotchas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Objects vs Maps.md",
+                "file": "Gotchas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Objects vs Maps.md",
+                "file": "Gotchas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Objects vs Maps.md"
+                "file": "Gotchas.md"
               }
             }
           },
@@ -176,9 +188,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf3b1ef56f4aca77",
+  "active": "92981886684f9ca9",
   "lastOpenFiles": [
-    "Object Prototype.md",
-    "Objects vs Maps.md"
+    "Objects vs Maps.md",
+    "Gotchas.md",
+    "Untitled",
+    "Object Prototype.md"
   ]
 }

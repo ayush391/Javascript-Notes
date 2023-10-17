@@ -1,4 +1,8 @@
 - ***NaN === NaN*** ==> **false**
 - ***undefined === null*** ==> **false**
 - ***undefined == null*** ==> **true**
-- 0 === false
+- ***0 === false*** ==> **false**
+- ***0 == false*** ==> **true**
+- ***1 == '1'*** ==> **true**
+- ***1 === '1'*** ==> **false**
+- 

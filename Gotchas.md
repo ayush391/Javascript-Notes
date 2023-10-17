@@ -1,2 +1,4 @@
-- *NaN === NaN* is **False**
-- 
+- ***NaN === NaN*** ==> **false**
+- ***undefined === null*** ==> **false**
+- ***undefined == null*** ==> **true**
+- 0 === false

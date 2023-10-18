@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c10b52a1425b4723",
+        "id": "d9e52301a6175695",
         "type": "tabs",
         "children": [
           {
-            "id": "c21c210a6db8a785",
+            "id": "36a4014750df94b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objects vs Maps.md",
+                "file": "Gotchas.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Objects vs Maps.md",
+                "file": "Gotchas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Objects vs Maps.md",
+                "file": "Gotchas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Objects vs Maps.md"
+                "file": "Gotchas.md"
               }
             }
           },
@@ -189,11 +189,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c21c210a6db8a785",
+  "active": "36a4014750df94b8",
   "lastOpenFiles": [
+    "2023-10-18.md",
+    "Gotchas.md",
     "Object Prototype.md",
     "Objects vs Maps.md",
-    "Gotchas.md",
     "Untitled"
   ]
 }

@@ -1,3 +1,5 @@
 - First Class Functions
 - Higher Order Functions
 - First Order Functions
+- Unary Functions
+- Currying Functions

@@ -155,11 +155,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 553,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,7 +173,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5e2911b31dce1cd",
+  "active": "c21c210a6db8a785",
   "lastOpenFiles": [
     "Gotchas.md",
     "Object Prototype.md",

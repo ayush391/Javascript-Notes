@@ -154,7 +154,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e67628dfd38e9464",
+  "active": "c339f0cbdc429058",
   "lastOpenFiles": [
     "Object Prototype.md",
     "Functions.md",

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "19ed384e722177b7",
+        "id": "d9e52301a6175695",
         "type": "tabs",
         "children": [
           {
-            "id": "e67628dfd38e9464",
+            "id": "36a4014750df94b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 220.00043487548828
   },
   "right": {
     "id": "bdd47410caba8a8a",
@@ -80,17 +80,6 @@
         "id": "0013c556a83bbf1d",
         "type": "tabs",
         "children": [
-          {
-            "id": "c30515d8f4250e6b",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
           {
             "id": "52ef173c5b2f4615",
             "type": "leaf",
@@ -121,6 +110,17 @@
             }
           },
           {
+            "id": "c30515d8f4250e6b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
             "id": "c339f0cbdc429058",
             "type": "leaf",
             "state": {
@@ -142,7 +142,7 @@
             "id": "d5e2911b31dce1cd",
             "type": "leaf",
             "state": {
-              "type": "Saved Queries View",
+              "type": "empty",
               "state": {}
             }
           },
@@ -155,7 +155,15 @@
             }
           },
           {
-            "id": "4fcfed06ca7f2f9f",
+            "id": "71a5a92e7688e285",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          },
+          {
+            "id": "741723961e44a21e",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -163,11 +171,12 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 236
+    "width": 369,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,13 +189,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e67628dfd38e9464",
+  "active": "36a4014750df94b8",
   "lastOpenFiles": [
-    "Object Prototype.md",
+    "Gotchas.md",
     "Functions.md",
-    "Untitled",
-    "conflict-files-obsidian-git.md",
+    "2023-10-18.md",
+    "Object Prototype.md",
     "Objects vs Maps.md",
-    "Gotchas.md"
+    "Untitled"
   ]
 }

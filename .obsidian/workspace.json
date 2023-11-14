@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions.md",
+                "file": "Daily Notes/2023-11-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions.md",
+                "file": "Daily Notes/2023-11-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functions.md",
+                "file": "Daily Notes/2023-11-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functions.md"
+                "file": "Daily Notes/2023-11-14.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -191,11 +191,13 @@
   },
   "active": "36a4014750df94b8",
   "lastOpenFiles": [
-    "Gotchas.md",
     "Functions.md",
+    "Daily Notes/2023-11-14.md",
+    "2023-11-14.md",
+    "Daily Notes",
+    "Gotchas.md",
     "2023-10-18.md",
     "Object Prototype.md",
-    "Objects vs Maps.md",
-    "Untitled"
+    "Objects vs Maps.md"
   ]
 }

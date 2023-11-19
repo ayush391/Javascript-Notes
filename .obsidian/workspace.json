@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-11-14.md",
+                "file": "2023-11-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-11-14.md",
+                "file": "2023-11-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-11-14.md",
+                "file": "2023-11-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-11-14.md"
+                "file": "2023-11-19.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             "id": "71a5a92e7688e285",
             "type": "leaf",
             "state": {
-              "type": "Saved Queries View",
+              "type": "empty",
               "state": {}
             }
           },
@@ -169,9 +169,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "f5a8715e54e8cf4b",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -191,8 +199,9 @@
   },
   "active": "36a4014750df94b8",
   "lastOpenFiles": [
-    "Functions.md",
     "Daily Notes/2023-11-14.md",
+    "2023-11-19.md",
+    "Functions.md",
     "2023-11-14.md",
     "Daily Notes",
     "Gotchas.md",

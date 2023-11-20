@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-19.md",
+                "file": "Daily Notes/2023-11-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-19.md",
+                "file": "Daily Notes/2023-11-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-19.md",
+                "file": "Daily Notes/2023-11-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-19.md"
+                "file": "Daily Notes/2023-11-19.md"
               }
             }
           },
@@ -197,9 +197,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "36a4014750df94b8",
+  "active": "0f5c8f7fe9f4291e",
   "lastOpenFiles": [
-    "2023-11-19.md",
+    "Daily Notes/2023-11-19.md",
     "Daily Notes/2023-11-14.md",
     "Functions.md",
     "2023-11-14.md",
